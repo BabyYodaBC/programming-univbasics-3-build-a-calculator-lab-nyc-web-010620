@@ -4,12 +4,12 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  diff = num2 - num1
+  diff = num1 - num2
   return diff
 end
 
 def division(num1, num2)
-  quo = num2 / num1
+  quo = num1 / num2
   return quo
 end
 
@@ -19,7 +19,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  rem = num2 % num1
+  rem = num1 % num2
   return rem
 end
 
